@@ -2,9 +2,10 @@
 
 This repository contains a project aimed at predicting the supply-demand gap for Uber services in City M during a specific period in the fourth and fifth weeks of 2016. The goal is to maximize driver utilization and ensure that riders can easily find available cars whenever and wherever they need them.
 
-#
-Note the training data has not been included here you can contact me at hammadhabib80@gmail.com for the training data.
+# Note
+The training data has not been included here you can contact me at hammadhabib80@gmail.com for the training data.
 Only the files for training and cleaning the data have been provided.
+
 # Problem Understanding and Formulation
 The challenge involves predicting the supply-demand gap, which represents the difference between passenger requests (demand) and driver responses (supply) within a given region and time slot. To tackle this problem, we utilize three weeks of training data to develop a predictive model. The dataset includes information about orders, regions, and points of interest (POIs) in the city, with the dataset anonymized to remove sensitive data.
 
